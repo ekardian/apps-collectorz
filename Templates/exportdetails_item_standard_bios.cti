@@ -1,0 +1,14 @@
+<template_info> 
+  <product>Game</product>
+  <description language='en'>Bios Game</description>
+  <description language='nl'>Bios Game</description>
+  <description language='fr'>Bios Game</description>
+  <description language='de'>Bios Game</description>  
+  <filename>view_item_details_bios.xsl</filename>
+  <template_type>exportdetails</template_type>
+  <item_type>2</item_type>
+  <supports_thumbnails>no</supports_thumbnails>
+  <supports_images>yes</supports_images>
+  <supports_navigation>yes</supports_navigation>
+</template_info>
+
