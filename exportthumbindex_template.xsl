@@ -41,7 +41,7 @@
     <meta property="og:url" content="http://apps.biosxtreme.net/" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="A la venta --> Colección     Películas - Documentales - Videotutoriales - Películas Cristianas - Películas Cristianas infantiles - Películas motivacionales" />
-    <meta property="og:image" content="http://apps.biosxtreme.net/images/appsbiosxtreme.jpg" />
+    <meta property="og:image" content="https://apps.biosxtreme.net/images/appsbiosxtreme.jpg" />
     <!-- JQuery -->
     <script src="js/jquery-1.11.3.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
