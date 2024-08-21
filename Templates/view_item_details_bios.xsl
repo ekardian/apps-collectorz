@@ -203,11 +203,11 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css"/>
     <link rel="stylesheet" href="../css/bootstrap-theme.min.css"/>
     <META http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
-    <meta property="og:title" content="Yacuiba - Bolivia: http://info.biosxtreme.net" />
-    <meta property="og:url" content="http://film.biosxtreme.net/" />
+    <meta property="og:title" content="Yacuiba - https://info.biosxtreme.net" />
+    <meta property="og:url" content="https://apps.biosxtreme.net/" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="A la venta --> Colección     Películas - Documentales - Videotutoriales - Películas Cristianas - Películas Cristianas infantiles - Películas motivacionales" />
-    <meta property="og:image" content="http://film.biosxtreme.net/images/gamesbiosxtreme.jpg" />
+    <meta property="og:description" content="A la venta --> Colección     Películas - Juegos - Apps - Música - Libros - Comics" />
+    <meta property="og:image" content="https://apps.biosxtreme.net/images/appsbiosxtreme.jpg" />
     <TITLE>
       <xsl:value-of select="gameinfo/gamelist/game/title"/>
   		<xsl:if test="gameinfo/gamelist/game/subtitle!=''">
